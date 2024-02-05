@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.button {
+    background-color: blueviolet;
+    color: antiquewhite;
+    padding: 3px 10px;
+    border-radius: 20px;
+    margin: 20px 0px;
+    display: inline-block;
+    text-align: center;
+
+ }   
+ .text-uppercase {
+    text-transform: uppercase;
+    color: aqua;
+}
+
+input {
+    margin-top: 4px;
+}
+    
